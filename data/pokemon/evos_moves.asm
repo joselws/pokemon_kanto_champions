@@ -1984,15 +1984,14 @@ MissingNoAFEvosMoves:
 
 CharmanderEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 8, CHARMELEON
+	db EVOLVE_LEVEL, 16, CHARMELEON
 	db 0
 ; Learnset
-	db 6,  SURF
-	db 7,  THUNDERBOLT
+	db 9,  EMBER
 	db 15, LEER
 	db 22, RAGE
-	db 30, SLASH
-	db 38, FLAMETHROWER
+	db 30, FLAMETHROWER
+	db 38, SLASH
 	db 46, FIRE_SPIN
 	db 0
 
@@ -2016,10 +2015,9 @@ CharmeleonEvosMoves:
 ; Learnset
 	db 9, EMBER
 	db 15, LEER
-	db 24, RAGE
-	db 33, SLASH
-	db 42, FLAMETHROWER
-	db 56, FIRE_SPIN
+	db 24, SLASH
+	db 33, FLAMETHROWER
+	db 42, FIRE_SPIN
 	db 0
 
 WartortleEvosMoves:
@@ -2043,8 +2041,8 @@ CharizardEvosMoves:
 	db 15, LEER
 	db 24, RAGE
 	db 36, SLASH
-	db 46, FLAMETHROWER
-	db 55, FIRE_SPIN
+	db 46, FIRE_SPIN
+	db 55, SKY_ATTACK
 	db 0
 
 MissingNoB5EvosMoves:
