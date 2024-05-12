@@ -708,9 +708,10 @@ ArbokEvosMoves:
 ; Learnset
 	db 10, POISON_STING
 	db 17, BITE
-	db 27, GLARE
-	db 36, SCREECH
-	db 47, ACID
+	db 25, ACID
+	db 30, BODY_SLAM
+	db 35, DIG
+	db 40, TOXIC
 	db 0
 
 ParasectEvosMoves:
