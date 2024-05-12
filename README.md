@@ -9,8 +9,15 @@ This is a basic hackrom of Pokemon Red.
 - Increase game's difficulty
     - Increase trainers Pokemons levels
     - Change trainers Pokemons
-- Make THUNDERBOLT, ICE BEAM, PSYCHIC, EARTHQUAKE, and FLAMETHROWER available in Celadon's department store
-- Improve the attacks, status, and learnset of some Pokemons
+- Improve pokemon stats, learnsets, and Pokemons
+    - A to H
+    - I to Q
+    - R to Z
+
+## Done tasks
+
+- Improve the attacks
+- Make THUNDERBOLT, ICE BEAM, PSYCHIC, EARTHQUAKE, and ROCK_SLIDE available in Celadon's department store
 
 ## OG repo readme:
 
