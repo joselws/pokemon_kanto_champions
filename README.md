@@ -1,4 +1,20 @@
-# Pokémon Red and Blue [![Build Status][ci-badge]][ci]
+# Pokemon Kanto Champions
+
+This is a basic hackrom of Pokemon Red.
+
+## TODO
+
+- Make all 151 Pokemon available
+- Look for a way to introduce Mew
+- Increase game's difficulty
+    - Increase trainers Pokemons levels
+    - Change trainers Pokemons
+- Make THUNDERBOLT, ICE BEAM, PSYCHIC, EARTHQUAKE, and FLAMETHROWER available in Celadon's department store
+- Improve the attacks, status, and learnset of some Pokemons
+
+## OG repo readme:
+
+## Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Red and Blue.
 
@@ -13,7 +29,7 @@ It builds the following ROMs:
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 
-## See also
+### See also
 
 - [**Wiki**][wiki] (includes [tutorials][tutorials])
 - [**Symbols**][symbols]
