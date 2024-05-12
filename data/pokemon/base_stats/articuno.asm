@@ -1,6 +1,6 @@
 	db DEX_ARTICUNO ; pokedex id
 
-	db  90,  85, 100,  85, 125
+	db  95,  90, 105,  95, 125
 	;   hp  atk  def  spd  spc
 
 	db ICE, FLYING ; type
@@ -17,7 +17,8 @@
 	tmhm RAZOR_WIND,   WHIRLWIND,    TOXIC,        TAKE_DOWN,    DOUBLE_EDGE,  \
 	     BUBBLEBEAM,   WATER_GUN,    ICE_BEAM,     BLIZZARD,     HYPER_BEAM,   \
 	     RAGE,         MIMIC,        DOUBLE_TEAM,  REFLECT,      BIDE,         \
-	     SWIFT,        SKY_ATTACK,   REST,         SUBSTITUTE,   FLY
+	     SWIFT,        SKY_ATTACK,   REST,         SUBSTITUTE,   FLY,          \
+		 PSYCHIC_M
 	; end
 
 	db 0 ; padding

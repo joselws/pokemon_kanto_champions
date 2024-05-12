@@ -566,8 +566,8 @@ GrowlitheEvosMoves:
 ; Learnset
 	db 18, EMBER
 	db 20, BITE
-	db 23, AGILITY
-	db 27, FLAMETHROWER
+	db 23, FLAMETHROWER
+	db 27, AGILITY
 	db 30, BODY_SLAM
 	db 34, FIRE_BLAST
 	db 0
