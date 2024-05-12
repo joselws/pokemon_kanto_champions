@@ -1984,10 +1984,11 @@ MissingNoAFEvosMoves:
 
 CharmanderEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 16, CHARMELEON
+	db EVOLVE_LEVEL, 8, CHARMELEON
 	db 0
 ; Learnset
-	db 9, EMBER
+	db 6,  SURF
+	db 7,  THUNDERBOLT
 	db 15, LEER
 	db 22, RAGE
 	db 30, SLASH
