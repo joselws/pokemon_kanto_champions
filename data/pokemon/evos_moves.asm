@@ -565,10 +565,11 @@ GrowlitheEvosMoves:
 	db 0
 ; Learnset
 	db 18, EMBER
-	db 23, LEER
-	db 30, TAKE_DOWN
-	db 39, AGILITY
-	db 50, FLAMETHROWER
+	db 20, BITE
+	db 23, AGILITY
+	db 27, FLAMETHROWER
+	db 30, BODY_SLAM
+	db 34, FIRE_BLAST
 	db 0
 
 OnixEvosMoves:
