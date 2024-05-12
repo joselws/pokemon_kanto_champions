@@ -1945,10 +1945,10 @@ AerodactylEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 33, SUPERSONIC
-	db 38, BITE
-	db 45, TAKE_DOWN
-	db 54, HYPER_BEAM
+	db 33, WING_ATTACK
+	db 38, DOUBLE_EDGE
+	db 45, EARTHQUAKE
+	db 54, ROCK_SLIDE
 	db 0
 
 MissingNoACEvosMoves:
@@ -2037,12 +2037,11 @@ CharizardEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 9, EMBER
+	db 9,  EMBER
 	db 15, LEER
 	db 24, RAGE
 	db 36, SLASH
-	db 46, FIRE_SPIN
-	db 55, SKY_ATTACK
+	db 46, SKY_ATTACK
 	db 0
 
 MissingNoB5EvosMoves:
