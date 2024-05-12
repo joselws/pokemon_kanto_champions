@@ -1394,11 +1394,11 @@ BeedrillEvosMoves:
 	db 0
 ; Learnset
 	db 12, FURY_ATTACK
-	db 16, FOCUS_ENERGY
+	db 16, ACID
 	db 20, TWINEEDLE
-	db 25, RAGE
-	db 30, PIN_MISSILE
-	db 35, AGILITY
+	db 24, WING_ATTACK
+	db 28, SWORDS_DANCE
+	db 32, AGILITY
 	db 0
 
 MissingNo73EvosMoves:
