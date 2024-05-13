@@ -1,6 +1,6 @@
 	db DEX_CLOYSTER ; pokedex id
 
-	db  50,  95, 180,  70,  85
+	db  85, 70,  180, 40,  105
 	;   hp  atk  def  spd  spc
 
 	db WATER, ICE ; type
@@ -18,7 +18,7 @@
 	     ICE_BEAM,     BLIZZARD,     HYPER_BEAM,   RAGE,         TELEPORT,     \
 	     MIMIC,        DOUBLE_TEAM,  REFLECT,      BIDE,         SELFDESTRUCT, \
 	     SWIFT,        REST,         EXPLOSION,    TRI_ATTACK,   SUBSTITUTE,   \
-	     SURF
+	     SURF         
 	; end
 
 	db 0 ; padding

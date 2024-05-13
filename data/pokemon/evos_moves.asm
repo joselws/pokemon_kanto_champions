@@ -456,11 +456,10 @@ ShellderEvosMoves:
 	db EVOLVE_ITEM, WATER_STONE, 1, CLOYSTER
 	db 0
 ; Learnset
-	db 18, SUPERSONIC
-	db 23, CLAMP
-	db 30, AURORA_BEAM
-	db 39, LEER
-	db 50, ICE_BEAM
+	db 18, SKULL_BASH
+	db 23, AURORA_BEAM
+	db 28, ICE_BEAM
+	db 30, EXPLOSION
 	db 0
 
 TentacoolEvosMoves:
@@ -1631,7 +1630,9 @@ CloysterEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 50, SPIKE_CANNON
+	db 35, SPIKE_CANNON
+	db 39, DRILL_PECK
+	db 44, PIN_MISSILE
 	db 0
 
 MissingNo8CEvosMoves:
