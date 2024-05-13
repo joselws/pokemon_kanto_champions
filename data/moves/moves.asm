@@ -71,7 +71,7 @@ Moves:
 	move SURF,         NO_ADDITIONAL_EFFECT,        95, WATER,        100, 15
 	move ICE_BEAM,     FREEZE_SIDE_EFFECT,          95, ICE,          100, 10
 	move BLIZZARD,     FREEZE_SIDE_EFFECT,         120, ICE,           90,  5
-	move PSYBEAM,      CONFUSION_SIDE_EFFECT,       65, PSYCHIC_TYPE, 100, 20
+	move PSYBEAM,      CONFUSION_SIDE_EFFECT,       75, PSYCHIC_TYPE, 100, 20
 	move BUBBLEBEAM,   SPEED_DOWN_SIDE_EFFECT,      65, WATER,        100, 20
 	move AURORA_BEAM,  ATTACK_DOWN_SIDE_EFFECT,     65, ICE,          100, 20
 	move HYPER_BEAM,   HYPER_BEAM_EFFECT,          150, NORMAL,        90,  5

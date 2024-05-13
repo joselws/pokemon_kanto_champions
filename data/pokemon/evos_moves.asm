@@ -1494,13 +1494,14 @@ ButterfreeEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 12, CONFUSION
-	db 15, POISONPOWDER
-	db 16, STUN_SPORE
-	db 17, SLEEP_POWDER
-	db 21, SUPERSONIC
-	db 26, WHIRLWIND
-	db 32, PSYBEAM
+	db 10, CONFUSION
+	db 14, POISONPOWDER
+	db 15, STUN_SPORE
+	db 16, SLEEP_POWDER
+	db 20, PSYBEAM
+	db 24, SPORE
+	db 27, WING_ATTACK
+	db 30, PSYCHIC_M
 	db 0
 
 MachampEvosMoves:
