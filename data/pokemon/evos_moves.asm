@@ -1992,10 +1992,10 @@ CharmanderEvosMoves:
 ; Learnset
 	db 9,  EMBER
 	db 15, LEER
-	db 22, RAGE
+	db 22, SLASH
 	db 30, FLAMETHROWER
-	db 38, SLASH
-	db 46, FIRE_SPIN
+	db 38, FIRE_SPIN
+	db 46, FIRE_BLAST
 	db 0
 
 SquirtleEvosMoves:
@@ -2021,6 +2021,7 @@ CharmeleonEvosMoves:
 	db 24, SLASH
 	db 33, FLAMETHROWER
 	db 42, FIRE_SPIN
+	db 50, FIRE_BLAST
 	db 0
 
 WartortleEvosMoves:
@@ -2044,8 +2045,10 @@ CharizardEvosMoves:
 	db 9,  EMBER
 	db 15, LEER
 	db 24, RAGE
-	db 36, SLASH
-	db 46, SKY_ATTACK
+	db 36, WING_ATTACK
+	db 40, FIRE_SPIN
+	db 44, FIRE_BLAST
+	db 48, SKY_ATTACK
 	db 0
 
 MissingNoB5EvosMoves:
