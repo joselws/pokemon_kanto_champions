@@ -2029,10 +2029,11 @@ WartortleEvosMoves:
 ; Learnset
 	db 8, BUBBLE
 	db 15, WATER_GUN
-	db 24, BITE
+	db 20, BITE
+	db 24, BUBBLEBEAM
 	db 31, WITHDRAW
 	db 39, SKULL_BASH
-	db 47, HYDRO_PUMP
+	db 43, HYDRO_PUMP
 	db 0
 
 CharizardEvosMoves:
