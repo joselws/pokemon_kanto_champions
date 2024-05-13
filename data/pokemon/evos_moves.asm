@@ -244,11 +244,13 @@ ClefairyEvosMoves:
 	db 0
 ; Learnset
 	db 13, SING
-	db 18, DOUBLESLAP
-	db 24, MINIMIZE
-	db 31, METRONOME
-	db 39, DEFENSE_CURL
-	db 48, LIGHT_SCREEN
+	db 16, DOUBLESLAP
+	db 19, MINIMIZE
+	db 22, METRONOME
+	db 25, LIGHT_SCREEN
+	db 28, REFLECT
+	db 31, RECOVER
+	db 34, AURORA_BEAM
 	db 0
 
 SpearowEvosMoves:

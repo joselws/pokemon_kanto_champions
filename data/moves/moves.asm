@@ -73,7 +73,7 @@ Moves:
 	move BLIZZARD,     FREEZE_SIDE_EFFECT,         120, ICE,           90,  5
 	move PSYBEAM,      CONFUSION_SIDE_EFFECT,       75, PSYCHIC_TYPE, 100, 20
 	move BUBBLEBEAM,   SPEED_DOWN_SIDE_EFFECT,      65, WATER,        100, 20
-	move AURORA_BEAM,  ATTACK_DOWN_SIDE_EFFECT,     65, ICE,          100, 20
+	move AURORA_BEAM,  ATTACK_DOWN_SIDE_EFFECT,    105, ICE,           95, 20
 	move HYPER_BEAM,   HYPER_BEAM_EFFECT,          150, NORMAL,        90,  5
 	move PECK,         NO_ADDITIONAL_EFFECT,        35, FLYING,       100, 35
 	move DRILL_PECK,   NO_ADDITIONAL_EFFECT,        80, FLYING,       100, 20
