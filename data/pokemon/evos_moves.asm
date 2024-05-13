@@ -957,7 +957,8 @@ DoduoEvosMoves:
 	db 30, DRILL_PECK
 	db 36, RAGE
 	db 40, TRI_ATTACK
-	db 44, AGILITY
+	db 44, STOMP
+	db 48, MEGA_KICK
 	db 0
 
 PoliwagEvosMoves:
@@ -1415,9 +1416,8 @@ DodrioEvosMoves:
 	db 20, GROWL
 	db 24, FURY_ATTACK
 	db 30, DRILL_PECK
-	db 39, RAGE
-	db 45, TRI_ATTACK
-	db 51, AGILITY
+	db 33, TRI_ATTACK
+	db 37, AGILITY
 	db 0
 
 PrimeapeEvosMoves:

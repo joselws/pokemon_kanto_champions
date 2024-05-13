@@ -1,7 +1,7 @@
 	db DEX_DITTO ; pokedex id
 
-	db  48,  48,  48,  48,  48
-	;   hp  atk  def  spd  spc
+	db  100,  100,  100,  100,  100
+	;   hp    atk   def   spd   spc
 
 	db NORMAL, NORMAL ; type
 	db 35 ; catch rate
@@ -11,7 +11,7 @@
 	dw DittoPicFront, DittoPicBack
 
 	db TRANSFORM, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
-	db GROWTH_MEDIUM_FAST ; growth rate
+	db GROWTH_FAST ; growth rate
 
 	; tm/hm learnset
 	tmhm
