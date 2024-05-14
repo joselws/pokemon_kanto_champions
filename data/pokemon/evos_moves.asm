@@ -1651,8 +1651,9 @@ ElectrodeEvosMoves:
 	db 17, SONICBOOM
 	db 22, SELFDESTRUCT
 	db 29, LIGHT_SCREEN
-	db 40, SWIFT
-	db 50, EXPLOSION
+	db 30, EXPLOSION
+	db 34, GROWTH
+	db 38, SKULL_BASH
 	db 0
 
 ClefableEvosMoves:
