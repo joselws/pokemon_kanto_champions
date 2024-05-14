@@ -1,7 +1,7 @@
 	db DEX_DRAGONITE ; pokedex id
 
-	db  91, 134,  95,  80, 100
-	;   hp  atk  def  spd  spc
+	db  110, 130,  90,  90, 130
+	;   hp   atk  def  spd  spc
 
 	db DRAGON, FLYING ; type
 	db 45 ; catch rate
@@ -19,7 +19,7 @@
 	     HYPER_BEAM,   RAGE,         DRAGON_RAGE,  THUNDERBOLT,  THUNDER,      \
 	     MIMIC,        DOUBLE_TEAM,  REFLECT,      BIDE,         FIRE_BLAST,   \
 	     SWIFT,        SKULL_BASH,   REST,         THUNDER_WAVE, SUBSTITUTE,   \
-	     SURF,         STRENGTH
+	     SURF,         STRENGTH,     SKY_ATTACK,   EARTHQUAKE
 	; end
 
 	db 0 ; padding

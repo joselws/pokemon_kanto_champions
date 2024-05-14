@@ -166,7 +166,7 @@ Moves:
 	move CRABHAMMER,   FLINCH_SIDE_EFFECT1,        105, WATER,         95, 10
 	move EXPLOSION,    EXPLODE_EFFECT,             250, NORMAL,       100,  5
 	move FURY_SWIPES,  TWO_TO_FIVE_ATTACKS_EFFECT,  18, NORMAL,        80, 15
-	move BONEMERANG,   ATTACK_TWICE_EFFECT,         50, GROUND,       100, 10
+	move BONEMERANG,   ATTACK_TWICE_EFFECT,         60, GROUND,       100, 10
 	move REST,         HEAL_EFFECT,                  0, PSYCHIC_TYPE, 100, 10
 	move ROCK_SLIDE,   NO_ADDITIONAL_EFFECT,        95, ROCK,         100, 10
 	move HYPER_FANG,   FLINCH_SIDE_EFFECT1,         90, NORMAL,       100, 15
