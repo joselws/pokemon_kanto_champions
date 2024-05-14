@@ -899,9 +899,11 @@ FarfetchdEvosMoves:
 ; Learnset
 	db 7, LEER
 	db 15, FURY_ATTACK
-	db 23, SWORDS_DANCE
-	db 31, AGILITY
-	db 39, SLASH
+	db 18, WING_ATTACK
+	db 21, RAZOR_WIND
+	db 24, AGILITY
+	db 27, SWORDS_DANCE
+	db 30, KARATE_CHOP
 	db 0
 
 VenonatEvosMoves:
