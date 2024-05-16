@@ -1273,14 +1273,12 @@ FlareonEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 27, QUICK_ATTACK
-	db 31, EMBER
-	db 37, TAIL_WHIP
-	db 40, BITE
-	db 42, LEER
-	db 44, FIRE_SPIN
-	db 48, RAGE
-	db 54, FLAMETHROWER
+	db 27, EMBER
+	db 30, TAIL_WHIP
+	db 33, QUICK_ATTACK
+	db 35, BITE
+	db 38, FLAMETHROWER
+	db 41, FIRE_SPIN
 	db 0
 
 JolteonEvosMoves:
