@@ -590,9 +590,9 @@ FearowEvosMoves:
 ; Learnset
 	db 9, LEER
 	db 15, FURY_ATTACK
-	db 25, MIRROR_MOVE
-	db 34, DRILL_PECK
-	db 43, AGILITY
+	db 24, MIRROR_MOVE
+	db 28, DRILL_PECK
+	db 34, AGILITY
 	db 0
 
 PidgeyEvosMoves:
