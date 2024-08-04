@@ -24,6 +24,7 @@ This is a basic hackrom of Pokemon Red.
 - Regular Pokemon: 80 - 89
 - Powerful Pokemon: 90 - 100
 - Legendary Pokemon: >=101
+- Starters: 99
 
 ## OG repo readme:
 
