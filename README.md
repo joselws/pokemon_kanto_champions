@@ -19,6 +19,12 @@ This is a basic hackrom of Pokemon Red.
 - Improve the attacks
 - Make THUNDERBOLT, ICE BEAM, PSYCHIC, EARTHQUAKE, and ROCK_SLIDE available in Celadon's department store
 
+## Average stats
+
+- Regular Pokemon: 80 - 89
+- Powerful Pokemon: 90 - 100
+- Legendary Pokemon: >=101
+
 ## OG repo readme:
 
 ## Pokémon Red and Blue [![Build Status][ci-badge]][ci]

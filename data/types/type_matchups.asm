@@ -2,11 +2,10 @@ TypeEffects:
 	;  attacker,     defender,     *=
 	db FIRE,         GRASS,        SUPER_EFFECTIVE
 	db FIRE,         ICE,          SUPER_EFFECTIVE
-	db FIRE,         BUG,          SUPER_EFFECTIVE
+	db FIRE,         POISON,       SUPER_EFFECTIVE
 	db FIRE,         FIRE,         NOT_VERY_EFFECTIVE
 	db FIRE,         DRAGON,       NOT_VERY_EFFECTIVE
 	db FIRE,         WATER,        NOT_VERY_EFFECTIVE
-	db FIRE,         ROCK,         NOT_VERY_EFFECTIVE
 	db WATER,        FIRE,         SUPER_EFFECTIVE
 	db WATER,        ROCK,         SUPER_EFFECTIVE
 	db WATER,        GROUND,       SUPER_EFFECTIVE
