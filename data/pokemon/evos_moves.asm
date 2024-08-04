@@ -580,8 +580,11 @@ OnixEvosMoves:
 	db 15, BIND
 	db 19, ROCK_THROW
 	db 25, RAGE
+	db 30, ROCK_SLIDE
 	db 33, SLAM
+	db 37, EARTHQUAKE
 	db 43, HARDEN
+	db 47, EXPLOSION
 	db 0
 
 FearowEvosMoves:
