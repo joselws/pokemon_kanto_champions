@@ -5,14 +5,13 @@ This is a basic hackrom of Pokemon Red.
 ## TODO
 
 - Make all 151 Pokemon available
-- Look for a way to introduce Mew
+- Introduce all 3 starters (trade or game corner price)
+- Look for a way to introduce Mew (trade or game corner price)
 - Increase game's difficulty
     - Increase trainers Pokemons levels
     - Change trainers Pokemons
+    - Wild pokemons
 - Improve pokemon stats, learnsets, and Pokemons
-    - A to H
-    - I to Q
-    - R to Z
 
 ## Done tasks
 
