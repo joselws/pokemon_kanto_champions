@@ -50,3 +50,4 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 [symbols]: https://github.com/pret/pokered/tree/symbols
 [ci]: https://github.com/pret/pokered/actions
 [ci-badge]: https://github.com/pret/pokered/actions/workflows/main.yml/badge.svg
+
