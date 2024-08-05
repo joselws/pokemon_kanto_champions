@@ -716,10 +716,11 @@ ArbokEvosMoves:
 ; Learnset
 	db 10, POISON_STING
 	db 17, BITE
-	db 25, ACID
+	db 23, HYPER_FANG
+	db 27, ACID
 	db 30, BODY_SLAM
-	db 35, DIG
-	db 40, TOXIC
+	db 33, DIG
+	db 36, TOXIC
 	db 0
 
 ParasectEvosMoves:
@@ -1349,6 +1350,7 @@ EkansEvosMoves:
 ; Learnset
 	db 10, POISON_STING
 	db 17, BITE
+	db 21, LICK
 	db 24, GLARE
 	db 31, SCREECH
 	db 38, ACID
