@@ -65,7 +65,7 @@ YoungsterData:
 ; Mt. Moon 1F
 	db 15, RATTATA, RATTATA, ZUBAT, 0
 ; Route 24
-	db 14, RATTATA, EKANS, ZUBAT, 0
+	db 20, RATTATA, EKANS, ZUBAT, 0
 ; Route 25
 	db 15, RATTATA, SPEAROW, 0
 	db 17, SLOWPOKE, 0
@@ -93,7 +93,7 @@ BugCatcherData:
 	db 14, BEEDRILL, BUTTERFREE, 0
 	db 12, BUTTERFREE, BUTTERFREE, BUTTERFREE, 0
 ; Route 24
-	db 14, CATERPIE, WEEDLE, 0
+	db 20, BUTTERFREE, BEEDRILL, 0
 ; Route 6
 	db 16, WEEDLE, CATERPIE, WEEDLE, 0
 	db 20, BUTTERFREE, 0
@@ -114,8 +114,8 @@ LassData:
 	db 16, ODDISH, ODDISH, BELLSPROUT, BELLSPROUT, 0
 	db 22, CLEFAIRY, 0
 ; Route 24
-	db 16, PIDGEY, NIDORAN_F, 0
-	db 14, PIDGEY, NIDORAN_F, 0
+	db 20, PIDGEOTTO, NIDORINA, ODDISH, 0
+	db 20, PIDGEOTTO, NIDORINO, BELLSPROUT, 0
 ; Route 25
 	db 15, NIDORAN_M, NIDORAN_F, 0
 	db 13, ODDISH, PIDGEY, ODDISH, 0
@@ -149,9 +149,9 @@ JrTrainerMData:
 ; Pewter Gym
 	db 12, DIGLETT, SANDSHREW, CUBONE, 0
 ; Route 24/Route 25
-	db 14, RATTATA, EKANS, 0
+	db 20, RATICATE, ARBOK, 0
 ; Route 24
-	db 18, MANKEY, 0
+	db 28, MANKEY, 0
 ; Route 6
 	db 20, SQUIRTLE, 0
 	db 16, SPEAROW, RATICATE, 0
@@ -550,7 +550,7 @@ RocketData:
 ; Cerulean City
 	db 17, MACHOP, DROWZEE, 0
 ; Route 24
-	db 15, EKANS, ZUBAT, 0
+	db 23, ARBOK, GOLBAT, 0
 ; Game Corner
 	db 20, RATICATE, ZUBAT, 0
 ; Rocket Hideout B1F
