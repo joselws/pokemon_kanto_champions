@@ -4,7 +4,6 @@ Route4WildMons:
 	db 12, EKANS
 	db 13, SANDSHREW
 	db 12, SPEAROW
-	db 13, RATTATA
 IF DEF(_RED)
 	db 14, SPEAROW
 	db 13, EKANS
