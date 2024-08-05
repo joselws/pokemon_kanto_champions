@@ -448,8 +448,12 @@ GyaradosEvosMoves:
 	db 0
 ; Learnset
 	db 20, BITE
-	db 25, DRAGON_RAGE
+	db 24, DRAGON_RAGE
+	db 27, TAKE_DOWN
+	db 30, ROAR
 	db 32, LEER
+	db 35, EARTHQUAKE
+	db 38, SKULL_BASH
 	db 41, HYDRO_PUMP
 	db 52, HYPER_BEAM
 	db 0
