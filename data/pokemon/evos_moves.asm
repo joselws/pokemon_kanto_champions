@@ -1508,9 +1508,10 @@ ButterfreeEvosMoves:
 	db 14, POISONPOWDER
 	db 15, STUN_SPORE
 	db 16, SLEEP_POWDER
+	db 17, WING_ATTACK
 	db 20, PSYBEAM
-	db 24, SPORE
-	db 27, WING_ATTACK
+	db 23, SPORE
+	db 27, RAZOR_WIND
 	db 30, PSYCHIC_M
 	db 0
 
