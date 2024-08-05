@@ -260,8 +260,8 @@ SpearowEvosMoves:
 ; Learnset
 	db 9, LEER
 	db 15, FURY_ATTACK
+	db 19, DRILL_PECK
 	db 22, MIRROR_MOVE
-	db 29, DRILL_PECK
 	db 36, AGILITY
 	db 0
 
@@ -591,10 +591,10 @@ FearowEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 9, LEER
+	db 9,  LEER
 	db 15, FURY_ATTACK
 	db 24, MIRROR_MOVE
-	db 28, DRILL_PECK
+	db 28, DOUBLE_EDGE
 	db 34, AGILITY
 	db 0
 
