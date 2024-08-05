@@ -1379,10 +1379,15 @@ PoliwhirlEvosMoves:
 ; Learnset
 	db 16, HYPNOSIS
 	db 19, WATER_GUN
-	db 26, DOUBLESLAP
-	db 33, BODY_SLAM
-	db 41, AMNESIA
-	db 49, HYDRO_PUMP
+	db 25, SUBMISSION
+	db 28, BODY_SLAM
+	db 31, AMNESIA
+	db 32, ICE_PUNCH
+	db 33, THUNDERPUNCH
+	db 34, FIRE_PUNCH
+	db 38, HYDRO_PUMP
+	db 41, COUNTER
+	db 44, SKULL_BASH
 	db 0
 
 PoliwrathEvosMoves:

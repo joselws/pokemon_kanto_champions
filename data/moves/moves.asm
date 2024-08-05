@@ -32,13 +32,13 @@ Moves:
 	move WHIRLWIND,    SWITCH_AND_TELEPORT_EFFECT,   0, NORMAL,        85, 20
 	move FLY,          FLY_EFFECT,                 160, FLYING,       100, 15
 	move BIND,         TRAPPING_EFFECT,             15, NORMAL,        75, 20
-	move SLAM,         NO_ADDITIONAL_EFFECT,        80, NORMAL,        75, 20
+	move SLAM,         NO_ADDITIONAL_EFFECT,       150, NORMAL,        75, 20
 	move VINE_WHIP,    NO_ADDITIONAL_EFFECT,        55, GRASS,        100, 10
 	move STOMP,        FLINCH_SIDE_EFFECT2,         65, NORMAL,       100, 20
 	move DOUBLE_KICK,  ATTACK_TWICE_EFFECT,         30, FIGHTING,     100, 30
 	move MEGA_KICK,    NO_ADDITIONAL_EFFECT,       120, NORMAL,        90,  5
 	move JUMP_KICK,    JUMP_KICK_EFFECT,            70, FIGHTING,      95, 25
-	move ROLLING_KICK, FLINCH_SIDE_EFFECT2,         75, FIGHTING,      95, 15
+	move ROLLING_KICK, FLINCH_SIDE_EFFECT2,         75, FIGHTING,     100, 15
 	move SAND_ATTACK,  ACCURACY_DOWN1_EFFECT,        0, NORMAL,       100, 15
 	move HEADBUTT,     FLINCH_SIDE_EFFECT2,         70, NORMAL,       100, 15
 	move HORN_ATTACK,  NO_ADDITIONAL_EFFECT,        65, NORMAL,       100, 25
@@ -77,7 +77,7 @@ Moves:
 	move HYPER_BEAM,   HYPER_BEAM_EFFECT,          150, NORMAL,        90,  5
 	move PECK,         NO_ADDITIONAL_EFFECT,        35, FLYING,       100, 35
 	move DRILL_PECK,   NO_ADDITIONAL_EFFECT,        80, FLYING,       100, 20
-	move SUBMISSION,   RECOIL_EFFECT,               80, FIGHTING,      95, 25
+	move SUBMISSION,   RECOIL_EFFECT,              110, FIGHTING,     100, 25
 	move LOW_KICK,     FLINCH_SIDE_EFFECT2,         50, FIGHTING,      90, 20
 	move COUNTER,      NO_ADDITIONAL_EFFECT,         1, FIGHTING,     100, 20
 	move SEISMIC_TOSS, SPECIAL_DAMAGE_EFFECT,        1, FIGHTING,     100, 20
