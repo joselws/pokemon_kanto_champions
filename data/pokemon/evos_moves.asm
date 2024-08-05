@@ -2037,7 +2037,8 @@ CharmeleonEvosMoves:
 ; Learnset
 	db 9, EMBER
 	db 15, LEER
-	db 24, SLASH
+	db 24, DRAGON_RAGE
+	db 28, SLASH
 	db 33, FLAMETHROWER
 	db 42, FIRE_SPIN
 	db 50, FIRE_BLAST
