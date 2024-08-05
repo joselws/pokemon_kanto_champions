@@ -1567,7 +1567,10 @@ GolbatEvosMoves:
 	db 10, SUPERSONIC
 	db 15, BITE
 	db 21, CONFUSE_RAY
-	db 32, WING_ATTACK
+	db 23, WING_ATTACK
+	db 26, HYPER_FANG
+	db 29, RAZOR_WIND
+	db 34, MEGA_DRAIN
 	db 43, HAZE
 	db 0
 
