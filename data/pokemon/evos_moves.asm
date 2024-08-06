@@ -856,8 +856,8 @@ SeelEvosMoves:
 	db EVOLVE_LEVEL, 28, DEWGONG
 	db 0
 ; Learnset
+	db 25, AURORA_BEAM
 	db 30, GROWL
-	db 35, AURORA_BEAM
 	db 40, REST
 	db 45, TAKE_DOWN
 	db 50, ICE_BEAM
@@ -1479,13 +1479,13 @@ DewgongEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 30, AURORA_BEAM
-	db 33, DRILL_PECK
-	db 36, REST
-	db 40, PSYBEAM
-	db 44, ICE_BEAM
-	db 48, PIN_MISSILE
-	db 50, AMNESIA
+	db 30, DRILL_PECK
+	db 33, REST
+	db 36, PIN_MISSILE
+	db 38, PSYBEAM
+	db 40, ICE_BEAM
+	db 43, PSYCHIC_M
+	db 46, AMNESIA
 	db 0
 
 MissingNo79EvosMoves:
