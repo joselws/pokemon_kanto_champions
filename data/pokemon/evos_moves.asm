@@ -437,10 +437,11 @@ MewEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 5,  PSYCHIC_M
 	db 10, TRANSFORM
 	db 20, MEGA_PUNCH
 	db 30, METRONOME
-	db 40, PSYCHIC_M
+	db 40, SOFTBOILED
 	db 0
 
 GyaradosEvosMoves:
