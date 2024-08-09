@@ -165,7 +165,7 @@ JrTrainerMData:
 
 JrTrainerFData:
 ; Cerulean Gym
-	db 19, GOLDEEN, 0
+	db 32, GOLDEEN, 0
 ; Route 6
 	db 16, RATTATA, PIKACHU, 0
 	db 16, PIDGEY, PIDGEY, PIDGEY, 0
@@ -333,7 +333,7 @@ FisherData:
 
 SwimmerData:
 ; Cerulean Gym
-	db 16, HORSEA, SHELLDER, 0
+	db 27, HORSEA, SHELLDER, 0
 ; Route 19
 	db 30, TENTACOOL, SHELLDER, 0
 	db 29, GOLDEEN, HORSEA, STARYU, 0
@@ -548,7 +548,7 @@ RocketData:
 	db 19, ZUBAT, EKANS, 0
 	db 20, RATICATE, 0
 ; Cerulean City
-	db 17, MACHOP, DROWZEE, 0
+	db 25, MACHOP, DROWZEE, 0
 ; Route 24
 	db 23, ARBOK, GOLBAT, 0
 ; Game Corner
