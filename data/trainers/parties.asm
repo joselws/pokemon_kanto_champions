@@ -95,8 +95,8 @@ BugCatcherData:
 ; Route 24
 	db 20, BUTTERFREE, BEEDRILL, 0
 ; Route 6
-	db 16, WEEDLE, CATERPIE, WEEDLE, 0
-	db 20, BUTTERFREE, 0
+	db 23, BEEDRILL, BEEDRILL, BEEDRILL, 0
+	db 27, BUTTERFREE, 0
 ; Unused
 	db 18, METAPOD, CATERPIE, VENONAT, 0
 ; Route 9
@@ -153,8 +153,8 @@ JrTrainerMData:
 ; Route 24
 	db 28, MANKEY, 0
 ; Route 6
-	db 20, SQUIRTLE, 0
-	db 16, SPEAROW, RATICATE, 0
+	db 35, WARTORTLE, 0
+	db 25, FEAROW, RATICATE, 0
 ; Unused
 	db 18, DIGLETT, DIGLETT, SANDSHREW, 0
 ; Route 9
@@ -167,8 +167,8 @@ JrTrainerFData:
 ; Cerulean Gym
 	db 32, GOLDEEN, 0
 ; Route 6
-	db 16, RATTATA, PIKACHU, 0
-	db 16, PIDGEY, PIDGEY, PIDGEY, 0
+	db 25, RATICATE, PIKACHU, 0
+	db 27, PIDGEOTTO, PIDGEOTTO, PIDGEOTTO, 0
 ; Unused
 	db 22, BULBASAUR, 0
 ; Route 9
