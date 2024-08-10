@@ -817,8 +817,10 @@ MagnetonEvosMoves:
 	db 21, SONICBOOM
 	db 25, THUNDERSHOCK
 	db 29, SUPERSONIC
+	db 31, THUNDERBOLT
+	db 35, TRI_ATTACK
 	db 38, THUNDER_WAVE
-	db 46, SWIFT
+	db 42, SELFDESTRUCT
 	db 54, SCREECH
 	db 0
 
@@ -1214,6 +1216,7 @@ SandshrewEvosMoves:
 	db 0
 ; Learnset
 	db 10, SAND_ATTACK
+	db 14, DIG
 	db 17, SLASH
 	db 24, POISON_STING
 	db 31, SWIFT
@@ -1227,7 +1230,10 @@ SandslashEvosMoves:
 	db 10, SAND_ATTACK
 	db 17, SLASH
 	db 27, POISON_STING
+	db 30, EARTHQUAKE
+	db 33, FISSURE
 	db 36, SWIFT
+	db 40, ROCK_SLIDE
 	db 47, FURY_SWIPES
 	db 0
 
@@ -1345,7 +1351,9 @@ ZubatEvosMoves:
 	db 10, SUPERSONIC
 	db 15, BITE
 	db 21, CONFUSE_RAY
+	db 25, HYPER_FANG
 	db 28, WING_ATTACK
+	db 32, SUPER_FANG
 	db 36, HAZE
 	db 0
 
