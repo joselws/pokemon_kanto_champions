@@ -143,7 +143,7 @@ SailorData:
 	db 29, HORSEA, HORSEA, HORSEA, 0
 	db 37, MACHOKE, 0
 ; Vermilion Gym
-	db 21, PIKACHU, PIKACHU, 0
+	db 32, PIKACHU, PIKACHU, 0
 
 JrTrainerMData:
 ; Pewter Gym
@@ -412,7 +412,7 @@ PsychicData:
 
 RockerData:
 ; Vermilion Gym
-	db 20, VOLTORB, MAGNEMITE, VOLTORB, 0
+	db 30, ELECTRODE, MAGNETON, ELECTRODE, 0
 ; Route 12
 	db 29, VOLTORB, ELECTRODE, 0
 
@@ -647,7 +647,7 @@ MistyData:
 	db $FF, 29, PSYDUCK, 30, GOLDEEN, 30, HORSEA, 25, POLIWRATH, 26, STARMIE, 28, GYARADOS, 0
 
 LtSurgeData:
-	db $FF, 21, VOLTORB, 18, PIKACHU, 24, RAICHU, 0
+	db $FF, 36, PIKACHU, 36, RAICHU, 35, ELECTABUZZ, 35, JOLTEON, 36, ZAPDOS, 0
 
 ErikaData:
 	db $FF, 29, VICTREEBEL, 24, TANGELA, 29, VILEPLUME, 0
