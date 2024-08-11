@@ -50,8 +50,8 @@ TypeEffects:
 	db POISON,       WATER,        SUPER_EFFECTIVE
 	db POISON,       POISON,       NOT_VERY_EFFECTIVE
 	db POISON,       GROUND,       NOT_VERY_EFFECTIVE
-	db POISON,       ROCK,         NOT_VERY_EFFECTIVE
-	db POISON,       GHOST,        NOT_VERY_EFFECTIVE
+	; db POISON,       ROCK,         NOT_VERY_EFFECTIVE
+	; db POISON,       GHOST,        NOT_VERY_EFFECTIVE
 	db GROUND,       FIRE,         SUPER_EFFECTIVE
 	db GROUND,       ELECTRIC,     SUPER_EFFECTIVE
 	db GROUND,       ROCK,         SUPER_EFFECTIVE
