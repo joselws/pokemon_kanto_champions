@@ -647,15 +647,16 @@ KadabraEvosMoves:
 
 GravelerEvosMoves:
 ; Evolutions
-	db EVOLVE_TRADE, 1, GOLEM
+	db EVOLVE_LEVEL, 38, GOLEM
 	db 0
 ; Learnset
 	db 11, DEFENSE_CURL
 	db 16, ROCK_THROW
 	db 21, SELFDESTRUCT
-	db 29, HARDEN
-	db 36, EARTHQUAKE
-	db 43, EXPLOSION
+	db 26, HARDEN
+	db 29, EARTHQUAKE
+	db 33, EXPLOSION
+	db 37, ROCK_SLIDE
 	db 0
 
 ChanseyEvosMoves:
@@ -1043,9 +1044,12 @@ MeowthEvosMoves:
 ; Learnset
 	db 12, BITE
 	db 17, PAY_DAY
+	db 20, DIG
 	db 24, SCREECH
-	db 33, FURY_SWIPES
-	db 44, SLASH
+	db 29, FURY_SWIPES
+	db 32, STOMP
+	db 35, SLASH
+	db 38, SUPER_FANG
 	db 0
 
 KrabbyEvosMoves:
@@ -1714,8 +1718,9 @@ PersianEvosMoves:
 	db 12, BITE
 	db 17, PAY_DAY
 	db 24, SCREECH
-	db 37, FURY_SWIPES
-	db 51, SLASH
+	db 29, SLASH
+	db 32, STOMP
+	db 35, FURY_SWIPES
 	db 0
 
 MarowakEvosMoves:
