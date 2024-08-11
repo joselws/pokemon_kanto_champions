@@ -309,11 +309,12 @@ IvysaurEvosMoves:
 ; Learnset
 	db 7, LEECH_SEED
 	db 13, VINE_WHIP
+	db 18, ACID
 	db 22, POISONPOWDER
-	db 30, RAZOR_LEAF
+	db 26, RAZOR_LEAF
+	db 30, SOLARBEAM
 	db 38, GROWTH
 	db 46, SLEEP_POWDER
-	db 54, SOLARBEAM
 	db 0
 
 ExeggutorEvosMoves:
@@ -1823,10 +1824,9 @@ VenusaurEvosMoves:
 	db 7, LEECH_SEED
 	db 13, VINE_WHIP
 	db 22, POISONPOWDER
-	db 30, RAZOR_LEAF
-	db 43, GROWTH
-	db 55, SLEEP_POWDER
-	db 65, SOLARBEAM
+	db 36, SOLARBEAM
+	db 39, GROWTH
+	db 44, SLEEP_POWDER
 	db 0
 
 TentacruelEvosMoves:
