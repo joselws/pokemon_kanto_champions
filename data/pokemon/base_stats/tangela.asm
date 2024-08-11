@@ -1,7 +1,7 @@
 	db DEX_TANGELA ; pokedex id
 
-	db  65,  55, 115,  60, 100
-	;   hp  atk  def  spd  spc
+	db  100,  55, 115,  60, 100
+	;   hp   atk  def  spd  spc
 
 	db GRASS, GRASS ; type
 	db 45 ; catch rate

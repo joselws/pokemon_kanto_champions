@@ -343,12 +343,12 @@ ExeggcuteEvosMoves:
 	db EVOLVE_ITEM, LEAF_STONE, 1, EXEGGUTOR
 	db 0
 ; Learnset
-	db 25, REFLECT
-	db 28, LEECH_SEED
-	db 32, STUN_SPORE
-	db 37, POISONPOWDER
-	db 42, SOLARBEAM
-	db 48, SLEEP_POWDER
+	db 22, REFLECT
+	db 25, LEECH_SEED
+	db 26, STUN_SPORE
+	db 27, POISONPOWDER
+	db 28, SLEEP_POWDER
+	db 30, SOLARBEAM
 	db 0
 
 GrimerEvosMoves:
@@ -1386,8 +1386,8 @@ ParasEvosMoves:
 	db 13, STUN_SPORE
 	db 20, LEECH_LIFE
 	db 27, SPORE
-	db 34, SLASH
-	db 41, GROWTH
+	db 30, SLASH
+	db 34, GROWTH
 	db 0
 
 PoliwhirlEvosMoves:
