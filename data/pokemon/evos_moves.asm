@@ -298,7 +298,7 @@ SlowbroEvosMoves:
 	db 27, GROWL
 	db 33, WATER_GUN
 	db 37, WITHDRAW
-	db 44, AMNESIA
+	db 42, AMNESIA
 	db 55, PSYCHIC_M
 	db 0
 
@@ -330,8 +330,11 @@ LickitungEvosMoves:
 	db 7, STOMP
 	db 15, DISABLE
 	db 23, DEFENSE_CURL
+	db 27, LICK
 	db 31, SLAM
-	db 39, SCREECH
+	db 35, SCREECH
+	db 39, SKULL_BASH
+	db 42, REST
 	db 0
 
 ExeggcuteEvosMoves:
@@ -396,10 +399,9 @@ CuboneEvosMoves:
 	db 0
 ; Learnset
 	db 25, LEER
-	db 31, FOCUS_ENERGY
-	db 38, THRASH
-	db 43, BONEMERANG
-	db 46, RAGE
+	db 28, BONEMERANG
+	db 33, SKULL_BASH
+	db 37, EARTHQUAKE
 	db 0
 
 RhyhornEvosMoves:
@@ -614,7 +616,8 @@ PidgeyEvosMoves:
 	db 5, SAND_ATTACK
 	db 12, QUICK_ATTACK
 	db 19, WHIRLWIND
-	db 28, WING_ATTACK
+	db 22, WING_ATTACK
+	db 26, FLY
 	db 36, AGILITY
 	db 44, MIRROR_MOVE
 	db 0
@@ -627,9 +630,9 @@ SlowpokeEvosMoves:
 	db 18, DISABLE
 	db 22, HEADBUTT
 	db 27, GROWL
+	db 28, PSYCHIC_M
 	db 33, WATER_GUN
 	db 40, AMNESIA
-	db 48, PSYCHIC_M
 	db 0
 
 KadabraEvosMoves:
@@ -1268,12 +1271,12 @@ JigglypuffEvosMoves:
 	db 0
 ; Learnset
 	db 9, POUND
-	db 14, DISABLE
+	db 14, BODY_SLAM
 	db 19, DEFENSE_CURL
-	db 24, DOUBLESLAP
+	db 24, DOUBLE_EDGE
 	db 29, REST
-	db 34, BODY_SLAM
-	db 39, DOUBLE_EDGE
+	db 33, DOUBLESLAP
+	db 35, DISABLE
 	db 0
 
 WigglytuffEvosMoves:
@@ -1788,9 +1791,9 @@ PidgeotEvosMoves:
 	db 5, SAND_ATTACK
 	db 12, QUICK_ATTACK
 	db 21, WHIRLWIND
-	db 31, WING_ATTACK
-	db 44, AGILITY
-	db 54, MIRROR_MOVE
+	db 36, SKY_ATTACK
+	db 40, RAZOR_WIND
+	db 44, MIRROR_MOVE
 	db 0
 
 StarmieEvosMoves:

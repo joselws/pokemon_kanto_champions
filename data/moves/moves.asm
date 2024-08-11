@@ -32,7 +32,7 @@ Moves:
 	move WHIRLWIND,    SWITCH_AND_TELEPORT_EFFECT,   0, NORMAL,        85, 20
 	move FLY,          FLY_EFFECT,                 160, FLYING,       100, 15
 	move BIND,         TRAPPING_EFFECT,             15, NORMAL,        75, 20
-	move SLAM,         NO_ADDITIONAL_EFFECT,       150, NORMAL,        75, 20
+	move SLAM,         NO_ADDITIONAL_EFFECT,       150, NORMAL,        85, 20
 	move VINE_WHIP,    NO_ADDITIONAL_EFFECT,        55, GRASS,        100, 10
 	move STOMP,        FLINCH_SIDE_EFFECT2,         80, NORMAL,       100, 20
 	move DOUBLE_KICK,  ATTACK_TWICE_EFFECT,         30, FIGHTING,     100, 30
@@ -136,7 +136,7 @@ Moves:
 	move LICK,         PARALYZE_SIDE_EFFECT2,       80, GHOST,        100, 30
 	move SMOG,         POISON_SIDE_EFFECT2,         20, POISON,        70, 20
 	move SLUDGE,       POISON_SIDE_EFFECT2,         85, POISON,       100, 20
-	move BONE_CLUB,    FLINCH_SIDE_EFFECT1,         65, GROUND,        95, 20
+	move BONE_CLUB,    FLINCH_SIDE_EFFECT1,         80, GROUND,       100, 20
 	move FIRE_BLAST,   BURN_SIDE_EFFECT2,          120, FIRE,          85,  5
 	move WATERFALL,    NO_ADDITIONAL_EFFECT,        80, WATER,        100, 15
 	move CLAMP,        TRAPPING_EFFECT,             35, WATER,         75, 10
@@ -166,7 +166,7 @@ Moves:
 	move CRABHAMMER,   FLINCH_SIDE_EFFECT1,        105, WATER,        100, 10
 	move EXPLOSION,    EXPLODE_EFFECT,             250, NORMAL,       100,  5
 	move FURY_SWIPES,  TWO_TO_FIVE_ATTACKS_EFFECT,  25, NORMAL,       100, 15
-	move BONEMERANG,   ATTACK_TWICE_EFFECT,         60, GROUND,       100, 10
+	move BONEMERANG,   ATTACK_TWICE_EFFECT,         60, GHOST,        100, 10
 	move REST,         HEAL_EFFECT,                  0, PSYCHIC_TYPE, 100, 10
 	move ROCK_SLIDE,   NO_ADDITIONAL_EFFECT,        95, ROCK,         100, 10
 	move HYPER_FANG,   FLINCH_SIDE_EFFECT1,         90, NORMAL,       100, 15
