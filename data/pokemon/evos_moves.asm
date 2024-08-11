@@ -834,11 +834,11 @@ KoffingEvosMoves:
 	db EVOLVE_LEVEL, 35, WEEZING
 	db 0
 ; Learnset
-	db 32, SLUDGE
-	db 37, SMOKESCREEN
-	db 40, SELFDESTRUCT
-	db 45, HAZE
-	db 48, EXPLOSION
+	db 28, SLUDGE
+	db 32, SMOKESCREEN
+	db 36, SELFDESTRUCT
+	db 40, HAZE
+	db 44, EXPLOSION
 	db 0
 
 MissingNo38EvosMoves:
@@ -1092,10 +1092,10 @@ VulpixEvosMoves:
 	db 0
 ; Learnset
 	db 16, QUICK_ATTACK
-	db 21, ROAR
-	db 28, CONFUSE_RAY
-	db 35, FLAMETHROWER
-	db 42, FIRE_SPIN
+	db 20, ROAR
+	db 24, CONFUSE_RAY
+	db 28, FLAMETHROWER
+	db 32, PSYCHIC_M
 	db 0
 
 NinetalesEvosMoves:
