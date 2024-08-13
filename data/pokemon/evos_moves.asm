@@ -1189,10 +1189,8 @@ HorseaEvosMoves:
 	db 0
 ; Learnset
 	db 19, SMOKESCREEN
-	db 24, LEER
-	db 30, WATER_GUN
-	db 37, AGILITY
-	db 45, HYDRO_PUMP
+	db 24, HYDRO_PUMP
+	db 30, LEER
 	db 0
 
 SeadraEvosMoves:
@@ -1202,6 +1200,9 @@ SeadraEvosMoves:
 	db 19, SMOKESCREEN
 	db 24, LEER
 	db 30, WATER_GUN
+	db 33, SOLARBEAM
+	db 35, PSYBEAM
+	db 37, AURORA_BEAM
 	db 41, AGILITY
 	db 52, HYDRO_PUMP
 	db 0
