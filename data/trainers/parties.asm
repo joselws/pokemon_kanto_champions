@@ -552,7 +552,7 @@ RocketData:
 ; Route 24
 	db 23, ARBOK, GOLBAT, 0
 ; Game Corner
-	db 20, RATICATE, ZUBAT, 0
+	db 48, RATICATE, GOLBAT, 0
 ; Rocket Hideout B1F
 	db 21, DROWZEE, MACHOP, 0
 	db 21, RATICATE, RATICATE, 0
