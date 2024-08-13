@@ -638,14 +638,14 @@ SlowpokeEvosMoves:
 
 KadabraEvosMoves:
 ; Evolutions
-	db EVOLVE_TRADE, 1, ALAKAZAM
+	db EVOLVE_LEVEL, 36, ALAKAZAM
 	db 0
 ; Learnset
 	db 16, CONFUSION
 	db 20, DISABLE
 	db 27, PSYBEAM
 	db 31, RECOVER
-	db 38, PSYCHIC_M
+	db 35, PSYCHIC_M
 	db 42, REFLECT
 	db 0
 
@@ -682,7 +682,7 @@ MachokeEvosMoves:
 ; Learnset
 	db 20, LOW_KICK
 	db 25, LEER
-	db 36, FOCUS_ENERGY
+	db 36, SUBMISSION
 	db 44, SEISMIC_TOSS
 	db 52, SUBMISSION
 	db 0
@@ -1751,7 +1751,7 @@ HaunterEvosMoves:
 	db 0
 ; Learnset
 	db 29, HYPNOSIS
-	db 38, DREAM_EATER
+	db 34, DREAM_EATER
 	db 0
 
 AbraEvosMoves:
