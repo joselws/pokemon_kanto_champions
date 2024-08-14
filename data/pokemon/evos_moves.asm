@@ -221,7 +221,9 @@ KangaskhanEvosMoves:
 	db 26, BITE
 	db 31, TAIL_WHIP
 	db 36, MEGA_PUNCH
-	db 41, LEER
+	db 38, ROCK_SLIDE
+	db 41, STRENGTH
+	db 43, EARTHQUAKE
 	db 46, DIZZY_PUNCH
 	db 0
 
