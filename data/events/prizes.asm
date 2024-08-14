@@ -7,10 +7,10 @@ NoThanksText:
 	db "NO THANKS@"
 
 PrizeMenuMon1Entries:
-	db ABRA
-	db CLEFAIRY
+	db SQUIRTLE
+	db BULBASAUR
 IF DEF(_RED)
-	db NIDORINA
+	db CHARMANDER
 ENDC
 IF DEF(_BLUE)
 	db NIDORINO
@@ -19,20 +19,20 @@ ENDC
 
 PrizeMenuMon1Cost:
 IF DEF(_RED)
-	bcd2 180
-	bcd2 500
+	bcd2 1000
+	bcd2 1000
 ENDC
 IF DEF(_BLUE)
 	bcd2 120
 	bcd2 750
 ENDC
-	bcd2 1200
+	bcd2 1000
 	db "@"
 
 PrizeMenuMon2Entries:
 IF DEF(_RED)
-	db DRATINI
-	db SCYTHER
+	db HITMONLEE
+	db HITMONCHAN
 ENDC
 IF DEF(_BLUE)
 	db PINSIR
@@ -43,8 +43,8 @@ ENDC
 
 PrizeMenuMon2Cost:
 IF DEF(_RED)
-	bcd2 2800
-	bcd2 5500
+	bcd2 1000
+	bcd2 1000
 	bcd2 9999
 ENDC
 IF DEF(_BLUE)
