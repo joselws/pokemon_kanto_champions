@@ -1623,6 +1623,7 @@ SnorlaxEvosMoves:
 	db 35, BODY_SLAM
 	db 41, HARDEN
 	db 48, DOUBLE_EDGE
+	db 52, SKULL_BASH
 	db 56, HYPER_BEAM
 	db 0
 
