@@ -496,6 +496,7 @@ GastlyEvosMoves:
 	db 0
 ; Learnset
 	db 27, HYPNOSIS
+	db 30, LICK
 	db 35, DREAM_EATER
 	db 0
 
