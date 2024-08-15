@@ -1014,17 +1014,18 @@ MoltresEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 51, LEER
-	db 55, AGILITY
-	db 60, SKY_ATTACK
+	db 45, FLAMETHROWER
+	db 51, RAZOR_WIND
+	db 55, SKY_ATTACK
 	db 0
 
 ArticunoEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 48, AURORA_BEAM
 	db 51, BLIZZARD
-	db 55, AGILITY
+	db 55, RAZOR_WIND
 	db 60, MIST
 	db 0
 
