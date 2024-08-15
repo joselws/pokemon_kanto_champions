@@ -506,10 +506,10 @@ ScytherEvosMoves:
 ; Learnset
 	db 17, LEER
 	db 20, FOCUS_ENERGY
-	db 24, DOUBLE_TEAM
+	db 24, VICEGRIP
 	db 29, SLASH
 	db 35, SWORDS_DANCE
-	db 42, AGILITY
+	db 42, RAZOR_WIND
 	db 0
 
 StaryuEvosMoves:
@@ -544,8 +544,8 @@ PinsirEvosMoves:
 ; Learnset
 	db 25, SEISMIC_TOSS
 	db 30, GUILLOTINE
-	db 36, FOCUS_ENERGY
-	db 43, HARDEN
+	db 36, VICEGRIP
+	db 43, FURY_ATTACK
 	db 49, SLASH
 	db 54, SWORDS_DANCE
 	db 0
@@ -890,11 +890,11 @@ TaurosEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 21, STOMP
-	db 28, TAIL_WHIP
-	db 35, LEER
-	db 44, RAGE
-	db 51, TAKE_DOWN
+	db 21, TAIL_WHIP
+	db 28, STOMP
+	db 35, BODY_SLAM
+	db 44, STRENGTH
+	db 51, SKULL_BASH
 	db 0
 
 MissingNo3DEvosMoves:
