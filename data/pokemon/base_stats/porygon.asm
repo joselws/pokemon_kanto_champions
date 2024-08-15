@@ -1,6 +1,6 @@
 	db DEX_PORYGON ; pokedex id
 
-	db  65,  60,  70,  40,  75
+	db  90,  95,  95,  50, 120
 	;   hp  atk  def  spd  spc
 
 	db NORMAL, NORMAL ; type
