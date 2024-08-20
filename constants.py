@@ -43,7 +43,7 @@ LAST_STAGE_POKEMONS = [
     "mew",
     "mewtwo",
     "moltres",
-    "mrmime",
+    "mr_mime",
     "muk",
     "nidoking",
     "nidoqueen",

@@ -1,6 +1,6 @@
 	db DEX_OMASTAR ; pokedex id
 
-	db  70,  60, 125,  55, 115
+	db  75,  60, 180,  55, 120
 	;   hp  atk  def  spd  spc
 
 	db ROCK, WATER ; type
