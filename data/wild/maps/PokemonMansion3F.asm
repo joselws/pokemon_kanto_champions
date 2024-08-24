@@ -1,16 +1,16 @@
 PokemonMansion3FWildMons:
 	def_grass_wildmons 10 ; encounter rate
 IF DEF(_RED)
-	db 31, KOFFING
-	db 33, GROWLITHE
-	db 35, KOFFING
-	db 32, PONYTA
-	db 34, PONYTA
-	db 40, WEEZING
-	db 34, GRIMER
-	db 38, WEEZING
-	db 36, PONYTA
-	db 42, MUK
+	db 57, KOFFING
+	db 57, GROWLITHE
+	db 57, VULPIX
+	db 57, PONYTA
+	db 57, MAGMAR
+	db 57, WEEZING
+	db 57, GRIMER
+	db 57, WEEZING
+	db 57, PONYTA
+	db 57, MUK
 ENDC
 IF DEF(_BLUE)
 	db 31, GRIMER
