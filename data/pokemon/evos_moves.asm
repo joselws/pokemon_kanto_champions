@@ -1613,9 +1613,9 @@ MewtwoEvosMoves:
 ; Learnset
 	db 63, BARRIER
 	db 64, THUNDERBOLT
-	db 66, PSYCHIC_M
 	db 70, RECOVER
-	db 81, AMNESIA
+	db 75, AMNESIA
+	db 80, PSYCHIC_M
 	db 0
 
 SnorlaxEvosMoves:
